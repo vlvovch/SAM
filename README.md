@@ -13,7 +13,7 @@ The SAM was extended for the case of multiple charges in
 
 ## Contents
 
-- A Wolfram Mathematica notebook [**CumulantExpressionsFinal.nb**](CumulantExpressionsFinal.nb) allows to express an arbitrary cumulant of conserved charges up to sixth order in terms of the grand-canonical susceptibilities and acceptance parameter $\alpha$. The final expressions are written using the notation commonly employed in QCD literature.
+- A Wolfram Mathematica notebook [**CumulantExpressionsFinal.nb**](CumulantExpressionsFinal.nb) allows to express an arbitrary cumulant of conserved charges up to sixth order in terms of the grand-canonical susceptibilities and acceptance parameter &alpha;. The final expressions are written using the notation commonly employed in QCD literature.
 
 ## Attribution
 
