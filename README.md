@@ -1,0 +1,2 @@
+# SAM
+Subensemble acceptance method
