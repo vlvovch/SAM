@@ -9,7 +9,7 @@ The SAM was initially developed for a case of single conserved charge in
 - V. Vovchenko, O. Savchuk, R. Poberezhnyuk, M.I. Gorenstein, V. Koch, *Connecting fluctuation measurements in heavy-ion collisions with the grand-canonical susceptibilities*, [arXiv:2003.13905 [hep-ph]](https://arxiv.org/abs/2003.13905)
   
 The SAM was extended for the case of multiple conserved charges in
-- V. Vovchenko, R. Poberezhnyuk, V. Koch, *Cumulants of multiple conserved charges and global conservation laws*, [arXiv:2007.XXXXX [hep-ph]](https://arxiv.org/abs/2007.XXXXX)
+- V. Vovchenko, R. Poberezhnyuk, V. Koch, *Cumulants of multiple conserved charges and global conservation laws*, [arXiv:2007.03850 [hep-ph]](https://arxiv.org/abs/2007.03850)
 
 ## Contents
 
