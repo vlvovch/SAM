@@ -9,10 +9,10 @@ The SAM is a procedure to evaluate the effect of exact global conservation laws 
 
 The SAM was originally developed to describe cumulants of a conserved quantity measured in a subvolume of a uniform thermal system.
 The results were first obtained for a case of single conserved charge in
-- V. Vovchenko, O. Savchuk, R. Poberezhnyuk, M.I. Gorenstein, V. Koch, *Connecting fluctuation measurements in heavy-ion collisions with the grand-canonical susceptibilities*, [arXiv:2003.13905 [hep-ph]](https://arxiv.org/abs/2003.13905)
+- V. Vovchenko, O. Savchuk, R. Poberezhnyuk, M.I. Gorenstein, V. Koch, *Connecting fluctuation measurements in heavy-ion collisions with the grand-canonical susceptibilities*, [Phys. Lett. B 811, 135868 (2020)](https://doi.org/10.1016/j.physletb.2020.135868) [[arXiv:2003.13905 [hep-ph]](https://arxiv.org/abs/2003.13905)]
 
 The SAM was extended for the case of multiple conserved charges in
-- V. Vovchenko, R. Poberezhnyuk, V. Koch, *Cumulants of multiple conserved charges and global conservation laws*, [arXiv:2007.03850 [hep-ph]](https://arxiv.org/abs/2007.03850)
+- V. Vovchenko, R. Poberezhnyuk, V. Koch, *Cumulants of multiple conserved charges and global conservation laws*, [JHEP 10, 089 (2020)](https://doi.org/10.1007/JHEP10(2020)089) [[arXiv:2007.03850 [hep-ph]](https://arxiv.org/abs/2007.03850)]
   
 ### Material
 
@@ -25,8 +25,8 @@ SAM-2.0 extends the original method to non-uniform systems and arbitrary subsyst
 
 ### Material
 
-- A Wolfram Mathematica notebook [**SAM2.0-conserved**](SAM2.0-conserved.nb) allows one to express cumulants of a conserved quantity measured in the acceptance and constrained by exact global conservation in terms of the unconstrained (''grand-canonical'') cumulants inside and outside the acceptance.
-- A Wolfram Mathematica notebook [**SAM2.0-conserved-and-nonconserved**](SAM2.0-conserved-and-nonconserved.nb) allows one to express the joint cumulants of conserved and non-conserved quantities in the acceptance and constrained by exact global conservation in terms of the unconstrained (''grand-canonical'') joint cumulants inside and outside the acceptance.
+- A Wolfram Mathematica notebook [**SAM2.0-conserved**](SAM2.0-conserved.nb) allows one to express cumulants of a conserved quantity measured in the acceptance and constrained by exact global conservation in terms of the unconstrained (''grand-canonical'') cumulants inside and outside the acceptance. Calculations proceed recursively up to arbitrary order.
+- A Wolfram Mathematica notebook [**SAM2.0-conserved-and-nonconserved**](SAM2.0-conserved-and-nonconserved.nb) allows one to express the joint cumulants of conserved and non-conserved quantities in the acceptance and constrained by exact global conservation in terms of the unconstrained (''grand-canonical'') joint cumulants inside and outside the acceptance. Calculations proceed recursively up to arbitrary order.
 
 ## Attribution
 
