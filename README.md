@@ -21,7 +21,7 @@ The SAM was extended for the case of multiple conserved charges in
 ## SAM-2.0
 
 SAM-2.0 extends the original method to non-uniform systems and arbitrary subsystems (acceptances), such as that in momentum space. This method is documented in
-- V. Vovchenko, *Correcting event-by-event fluctuations in heavy-ion collisions for exact global conservation laws with the generalized subensemble acceptance method*, [arXiv:2106.XXXXX [hep-ph]](https://arxiv.org/abs/2106.XXXXX)
+- V. Vovchenko, *Correcting event-by-event fluctuations in heavy-ion collisions for exact global conservation laws with the generalized subensemble acceptance method*, [arXiv:2106.13775 [hep-ph]](https://arxiv.org/abs/2106.13775)
 
 ### Material
 
